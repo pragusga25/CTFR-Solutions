@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <title>Challenge 5 - Web Exploitation</title>
+    </head>
+    <body>
+        Device yang kalian pake : CTFR<br><br>Coba ganti ke CTFR dong :(. Biar agak gud gitu h3h3
+        <br><br>Flag : CTFR{us3r_4g3nt_h4s_b33n_3dit3d}    </body>
+</html>

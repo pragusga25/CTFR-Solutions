@@ -1,0 +1,1 @@
+curl -A CTFR https://web.ctf.rasyidmf.com/chal5/
