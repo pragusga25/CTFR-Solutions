@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Aug  4 10:55:39 2021
+Invocation: foremost sampah.webp 
+Output directory: /home/kali/Desktop/CTF/rasyidmf/forensics/tempat-sampah-berjalan/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: sampah.webp
+Start: Wed Aug  4 10:55:39 2021
+Length: 20 KB (20759 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000040.zip 	      203 B 	      20556 	 
+Finish: Wed Aug  4 10:55:39 2021
+
+1 FILES EXTRACTED
+	
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Aug  4 10:55:39 2021
