@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Aug  4 11:01:33 2021
+Invocation: foremost flag.png 
+Output directory: /home/kali/Desktop/CTF/rasyidmf/forensics/saya-dapat-qrcode/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: flag.png
+Start: Wed Aug  4 11:01:33 2021
+Length: 3 KB (3568 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000004.zip 	       1 KB 	       2077 	 
+1:	00000000.png 	       2 KB 	          0 	  (300 x 300)
+Finish: Wed Aug  4 11:01:33 2021
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Aug  4 11:01:33 2021
